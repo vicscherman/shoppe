@@ -11,6 +11,12 @@
   right: 0;
   z-index: 5;
 
+  .empty-message{
+    font-size: 18px;
+    align-self: center;
+    margin-top: 50px
+  }
+
   .cart-items {
     height: 240px;
     display: flex;
