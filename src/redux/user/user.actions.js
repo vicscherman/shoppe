@@ -1,4 +1,3 @@
-import { actionChannel } from "redux-saga/effects";
 import  UserActionTypes  from "./user.types";
 
 
